@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = DarrenViewTool::Renderer.copyright 'Darren Ybarra', 'All rights reserved'
+```
 
 ## Development
 
